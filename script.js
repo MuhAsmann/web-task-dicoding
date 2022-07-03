@@ -34,7 +34,6 @@ const sec = document.querySelectorAll("section");
 
 function activeMenu(){
   let len=sec.length;
-  console.log(len)
 
   // check the current height by using scrollY
   //check the current page height -> offsetTop
